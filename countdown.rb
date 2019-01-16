@@ -1,6 +1,6 @@
 def countdown
   i = 12
-  while i <= 12
+  while i >= 0
     puts "#{i}"
     i-= 1
     if i = 0
